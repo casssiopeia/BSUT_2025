@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="bk001">
+        <title>Преступление и наказание</title>
+        <author>Фёдор Достоевский</author>
+        <year>1866</year>
+        <genre>Роман</genre>
+        <price>299.99</price>
+    </book>
+    <book id="bk002">
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+        <genre>Эпос</genre>
+        <price>450.00</price>
+    </book>
+    <book id="bk003">
+        <title>Мёртвые души</title>
+        <author>Николай Гоголь</author>
+        <year>1842</year>
+        <genre>Сатира</genre>
+        <price>250.50</price>
+    </book>
+    <book id="bk004">
+        <title>Анна Каренина</title>
+        <author>Лев Толстой</author>
+        <year>1877</year>
+        <genre>Роман</genre>
+        <price>320.00</price>
+    </book>
+    <book id="bk005">
+        <title>Герой нашего времени</title>
+        <author>Михаил Лермонтов</author>
+        <year>1840</year>
+        <genre>Повесть</genre>
+        <price>210.75</price>
+    </book>
+    <book id="bk006">
+        <title>Отцы и дети</title>
+        <author>Иван Тургенев</author>
+        <year>1862</year>
+        <genre>Роман</genre>
+        <price>275.20</price>
+    </book>
+    <book id="bk007">
+        <title>Идиот</title>
+        <author>Фёдор Достоевский</author>
+        <year>1869</year>
+        <genre>Роман</genre>
+        <price>295.00</price>
+    </book>
+    <book id="bk008">
+        <title>Братья Карамазовы</title>
+        <author>Фёдор Достоевский</author>
+        <year>1880</year>
+        <genre>Роман</genre>
+        <price>310.50</price>
+    </book>
+    <book id="bk009">
+        <title>Записки из подполья</title>
+        <author>Фёдор Достоевский</author>
+        <year>1864</year>
+        <genre>Философия</genre>
+        <price>180.40</price>
+    </book>
+    <book id="bk010">
+        <title>Дубровский</title>
+        <author>Александр Пушкин</author>
+        <year>1841</year>
+        <genre>Приключения</genre>
+        <price>205.00</price>
+    </book>
+    <book id="bk011">
+        <title>Капитанская дочка</title>
+        <author>Александр Пушкин</author>
+        <year>1836</year>
+        <genre>Исторический роман</genre>
+        <price>215.00</price>
+    </book>
+    <book id="bk012">
+        <title>Евгений Онегин</title>
+        <author>Александр Пушкин</author>
+        <year>1833</year>
+        <genre>Поэма</genre>
+        <price>199.90</price>
+    </book>
+    <book id="bk013">
+        <title>Обломов</title>
+        <author>Иван Гончаров</author>
+        <year>1859</year>
+        <genre>Роман</genre>
+        <price>270.00</price>
+    </book>
+    <book id="bk014">
+        <title>Чевенгур</title>
+        <author>Андрей Платонов</author>
+        <year>1928</year>
+        <genre>Антиутопия</genre>
+        <price>285.60</price>
+    </book>
+    <book id="bk015">
+        <title>Собачье сердце</title>
+        <author>Михаил Булгаков</author>
+        <year>1925</year>
+        <genre>Сатира</genre>
+        <price>230.10</price>
+    </book>
+    <book id="bk016">
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+        <genre>Фантастика</genre>
+        <price>340.00</price>
+    </book>
+    <book id="bk017">
+        <title>Белая гвардия</title>
+        <author>Михаил Булгаков</author>
+        <year>1925</year>
+        <genre>Роман</genre>
+        <price>280.00</price>
+    </book>
+    <book id="bk018">
+        <title>Доктор Живаго</title>
+        <author>Борис Пастернак</author>
+        <year>1957</year>
+        <genre>Роман</genre>
+        <price>310.00</price>
+    </book>
+    <book id="bk019">
+        <title>Тихий Дон</title>
+        <author>Михаил Шолохов</author>
+        <year>1940</year>
+        <genre>Исторический роман</genre>
+        <price>355.50</price>
+    </book>
+</library>
